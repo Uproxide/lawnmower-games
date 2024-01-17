@@ -11,7 +11,7 @@ var ctx;
 
 var fields = [];
 
-var nextMulch = 0;
+var nextMulch = 999999;
 var tileSizes = [50,25,20,10,5,4,2,1];
 
 var maxGrowth = 15;
